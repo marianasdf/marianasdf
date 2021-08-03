@@ -1,11 +1,5 @@
 ### Hello, eu sou a Mariana Ferreira 👋
 
-- 🔭 Sou estudante de desenvolvimento Web Fullstack na Trybe.
-- 🌱 Estudando Fundamentos do Desenvolvimento Web.
-- Email: marianadesouzaferreira01@gmail.com
-
-##
-
 <div>
   <a href="https://github.com/marianasdf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianasdf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
